@@ -1,0 +1,28 @@
+/* div #imag .img{
+    height:360px ;
+    width:320px;
+    margin: 0px auto;
+    display: block;
+}
+.person img {
+    height: 132px;
+    margin: 0px auto;
+    display: block;
+} */
+
+#imgp{
+    height:200px;
+    width: 200px;
+    overflow: "hidden";
+    align-self: center;
+      
+}
+
+.button{
+    height: 50px;
+    top:75px;
+}
+
+#cardMain{
+    border: 0px;
+}
